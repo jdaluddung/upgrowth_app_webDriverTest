@@ -3,7 +3,9 @@ This is a sample automated test for validating an Image Search app end to end fu
 
 ## Pre-requisites
 
-You should have node install in order to run the commands below. Check out [Nodejs](https://nodejs.org/en/).
+1. Install the latest Chromedriver in your machine to run TestSample.java
+2. If you want to run TestSample_Saucelab.java, you need a Saucelaub account and update the code with the username and token.
+3. You should have node install in order to run the commands below. Check out [Nodejs](https://nodejs.org/en/).
 
 ## Commands
 
