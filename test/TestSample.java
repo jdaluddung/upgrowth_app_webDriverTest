@@ -23,6 +23,7 @@ public class TestSample {
 
         // Verify the app is loaded
         // Wait until the application loads
+
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("root")));
         System.out.println("App is loaded successfully.");
 
