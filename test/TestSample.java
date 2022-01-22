@@ -28,7 +28,7 @@ public class TestSample {
         System.out.println("App is loaded successfully.");
 
         String  searchTerm;
-        searchTerm = "star"; //input search term here
+        searchTerm = "moon"; //input search term here
 
         //Verify Search text field is present and input search term
         driver.findElement(By.id("bb-id-5")).sendKeys(searchTerm);
